@@ -1,0 +1,41 @@
+C:\Users\aayse\source\repos\computer organization final project\computer organization final project\bin\Debug\net8.0-windows\computer organization final project.exe
+C:\Users\aayse\source\repos\computer organization final project\computer organization final project\bin\Debug\net8.0-windows\computer organization final project.deps.json
+C:\Users\aayse\source\repos\computer organization final project\computer organization final project\bin\Debug\net8.0-windows\computer organization final project.runtimeconfig.json
+C:\Users\aayse\source\repos\computer organization final project\computer organization final project\bin\Debug\net8.0-windows\computer organization final project.dll
+C:\Users\aayse\source\repos\computer organization final project\computer organization final project\bin\Debug\net8.0-windows\computer organization final project.pdb
+C:\Users\aayse\source\repos\computer organization final project\computer organization final project\obj\Debug\net8.0-windows\computer_organization_final_project.Form1.resources
+C:\Users\aayse\source\repos\computer organization final project\computer organization final project\obj\Debug\net8.0-windows\computer organization final project.csproj.GenerateResource.cache
+C:\Users\aayse\source\repos\computer organization final project\computer organization final project\obj\Debug\net8.0-windows\computer organization final project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aayse\source\repos\computer organization final project\computer organization final project\obj\Debug\net8.0-windows\computer organization final project.AssemblyInfoInputs.cache
+C:\Users\aayse\source\repos\computer organization final project\computer organization final project\obj\Debug\net8.0-windows\computer organization final project.AssemblyInfo.cs
+C:\Users\aayse\source\repos\computer organization final project\computer organization final project\obj\Debug\net8.0-windows\computer organization final project.csproj.CoreCompileInputs.cache
+C:\Users\aayse\source\repos\computer organization final project\computer organization final project\obj\Debug\net8.0-windows\computer organization final project.dll
+C:\Users\aayse\source\repos\computer organization final project\computer organization final project\obj\Debug\net8.0-windows\refint\computer organization final project.dll
+C:\Users\aayse\source\repos\computer organization final project\computer organization final project\obj\Debug\net8.0-windows\computer organization final project.pdb
+C:\Users\aayse\source\repos\computer organization final project\computer organization final project\obj\Debug\net8.0-windows\computer organization final project.genruntimeconfig.cache
+C:\Users\aayse\source\repos\computer organization final project\computer organization final project\obj\Debug\net8.0-windows\ref\computer organization final project.dll
+C:\Users\Numan\Desktop\computer org. final\computer org. final\computer organization final project\computer organization final project\bin\Debug\net8.0-windows\computer organization final project.exe
+C:\Users\Numan\Desktop\computer org. final\computer org. final\computer organization final project\computer organization final project\bin\Debug\net8.0-windows\computer organization final project.deps.json
+C:\Users\Numan\Desktop\computer org. final\computer org. final\computer organization final project\computer organization final project\bin\Debug\net8.0-windows\computer organization final project.runtimeconfig.json
+C:\Users\Numan\Desktop\computer org. final\computer org. final\computer organization final project\computer organization final project\bin\Debug\net8.0-windows\computer organization final project.dll
+C:\Users\Numan\Desktop\computer org. final\computer org. final\computer organization final project\computer organization final project\bin\Debug\net8.0-windows\computer organization final project.pdb
+C:\Users\Numan\Desktop\computer org. final\computer org. final\computer organization final project\computer organization final project\obj\Debug\net8.0-windows\computer_organization_final_project.Form1.resources
+C:\Users\Numan\Desktop\computer org. final\computer org. final\computer organization final project\computer organization final project\obj\Debug\net8.0-windows\computer organization final project.csproj.GenerateResource.cache
+C:\Users\Numan\Desktop\computer org. final\computer org. final\computer organization final project\computer organization final project\obj\Debug\net8.0-windows\computer organization final project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Numan\Desktop\computer org. final\computer org. final\computer organization final project\computer organization final project\obj\Debug\net8.0-windows\computer organization final project.AssemblyInfoInputs.cache
+C:\Users\Numan\Desktop\computer org. final\computer org. final\computer organization final project\computer organization final project\obj\Debug\net8.0-windows\computer organization final project.AssemblyInfo.cs
+C:\Users\Numan\Desktop\computer org. final\computer org. final\computer organization final project\computer organization final project\obj\Debug\net8.0-windows\computer organization final project.csproj.CoreCompileInputs.cache
+C:\Users\Numan\Desktop\computer org. final\computer org. final\computer organization final project\computer organization final project\obj\Debug\net8.0-windows\computer organization final project.dll
+C:\Users\Numan\Desktop\computer org. final\computer org. final\computer organization final project\computer organization final project\obj\Debug\net8.0-windows\refint\computer organization final project.dll
+C:\Users\Numan\Desktop\computer org. final\computer org. final\computer organization final project\computer organization final project\obj\Debug\net8.0-windows\computer organization final project.pdb
+C:\Users\Numan\Desktop\computer org. final\computer org. final\computer organization final project\computer organization final project\obj\Debug\net8.0-windows\computer organization final project.genruntimeconfig.cache
+C:\Users\Numan\Desktop\computer org. final\computer org. final\computer organization final project\computer organization final project\obj\Debug\net8.0-windows\ref\computer organization final project.dll
+C:\Users\aayse\OneDrive\Masaüstü\yenü\computer org. final\computer org. final\computer organization final project\computer organization final project\obj\Debug\net8.0-windows\computer_organization_final_project.Form1.resources
+C:\Users\aayse\OneDrive\Masaüstü\yenü\computer org. final\computer org. final\computer organization final project\computer organization final project\obj\Debug\net8.0-windows\computer organization final project.csproj.GenerateResource.cache
+C:\Users\aayse\OneDrive\Masaüstü\yenü\computer org. final\computer org. final\computer organization final project\computer organization final project\obj\Debug\net8.0-windows\computer organization final project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aayse\OneDrive\Masaüstü\yenü\computer org. final\computer org. final\computer organization final project\computer organization final project\obj\Debug\net8.0-windows\computer organization final project.AssemblyInfoInputs.cache
+C:\Users\aayse\OneDrive\Masaüstü\yenü\computer org. final\computer org. final\computer organization final project\computer organization final project\obj\Debug\net8.0-windows\computer organization final project.AssemblyInfo.cs
+C:\Users\aayse\OneDrive\Masaüstü\yenü\computer org. final\computer org. final\computer organization final project\computer organization final project\obj\Debug\net8.0-windows\computer organization final project.csproj.CoreCompileInputs.cache
+C:\Users\aayse\OneDrive\Masaüstü\yenü\computer org. final\computer org. final\computer organization final project\computer organization final project\obj\Debug\net8.0-windows\computer organization final project.dll
+C:\Users\aayse\OneDrive\Masaüstü\yenü\computer org. final\computer org. final\computer organization final project\computer organization final project\obj\Debug\net8.0-windows\refint\computer organization final project.dll
+C:\Users\aayse\OneDrive\Masaüstü\yenü\computer org. final\computer org. final\computer organization final project\computer organization final project\obj\Debug\net8.0-windows\computer organization final project.pdb
